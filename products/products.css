@@ -44,6 +44,22 @@ nav a:hover {
 
 button {
   padding: 5px 20px 5px 20px;
+  border-radius: 10px;
+  border: 5px solid #99bc85;
+  background-color: #e8c872;
+  font-weight: 400;
+  font-family: "Lilita One", sans-serif;
+  font-size: large;
+}
+
+button:hover {
+  padding: 5px 20px 5px 20px;
+  border-radius: 10px;
+  border: 5px solid red;
+  background-color: #99bc85;
+  font-weight: 400;
+  font-family: "Lilita One", sans-serif;
+  font-size: large;
 }
 
 .carrot {
