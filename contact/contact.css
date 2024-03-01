@@ -1,0 +1,33 @@
+body {
+  background-color: #472d2d;
+}
+
+.nav-bar li {
+  display: inline;
+}
+
+nav {
+  border: 1px solid #fdffae;
+  background-color: #555843;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+.nav-bar li a {
+  color: #aec3ae;
+  padding: 10px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #90a290;
+  background-color: #feffaedf;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
