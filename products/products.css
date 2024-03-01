@@ -1,5 +1,6 @@
 body {
   background-color: #472d2d;
+  align-items: center;
 }
 
 .nav-bar li {
@@ -33,12 +34,16 @@ nav a:hover {
 }
 
 .box-1{
-    margin: 30px;
+    margin: 40px;
+    
 }
 
 button{
     padding: 5px 15px 5px  15px;
 }
 
+.carrot{
+    height: 30px;
+    
+}
 
-  
