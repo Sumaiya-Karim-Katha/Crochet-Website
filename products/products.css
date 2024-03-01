@@ -28,9 +28,9 @@ nav a:hover {
 }
 
 .container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: grid;/* you need to define template */
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    
 }
 
 .box-1{
@@ -39,11 +39,16 @@ nav a:hover {
 }
 
 button{
-    padding: 5px 15px 5px  15px;
+    padding: 5px 20px 5px  20px;
 }
 
 .carrot{
     height: 30px;
     
 }
+
+.const {
+    margin: auto;
+    width: 1050px;
+  }
 
