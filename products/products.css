@@ -56,7 +56,18 @@ img{
     height: 120%;
 }
 
-.footer {
-    display: flex;
-    justify-content: center;
-}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #555843;
+    color: #aec3ae;
+    padding: 20px 0;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+
+  
