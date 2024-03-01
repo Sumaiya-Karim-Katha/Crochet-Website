@@ -1,0 +1,27 @@
+body{
+    background-color: #472D2D;
+}
+
+.nav-bar li {
+    display: inline;
+  }
+  
+  nav{
+    border: 1px solid #FDFFAE;
+    background-color: #555843;
+    font-size: 18px;
+    border-radius: 5px;  
+  }
+  
+  .nav-bar li a {
+    color: #AEC3AE;
+    padding: 10px;
+    text-decoration: none;
+  }
+
+  nav a:hover {
+    color: #90a290;
+    background-color: #feffaedf;
+    padding: 10px;
+    border-radius: 5px;
+  }
