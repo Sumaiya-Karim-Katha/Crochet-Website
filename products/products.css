@@ -28,46 +28,41 @@ nav a:hover {
 }
 
 .container {
-    display: grid;/* you need to define template */
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
- 
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 
-.box-1{
-    margin: 40px;
-    
+.box-1 {
+  margin: 40px;
 }
 
-button{
-    padding: 5px 20px 5px 20px;
+button {
+  padding: 5px 20px 5px 20px;
 }
 
-.carrot{
-    height: 30px;
-    
+.carrot {
+  height: 30px;
 }
 
 .const {
-    margin: auto;
-    width: 1050px;
-  }
+  margin: auto;
+  width: 1050px;
+}
 
-img{
-    height: 120%;
+img {
+  height: 120%;
 }
 
 footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-    background-color: #555843;
-    color: #aec3ae;
-    padding: 20px 0;
-  }
-  
-  footer p {
-    margin: 0;
-  }
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #55584370;
+  color: #aec3ae;
+  padding: 20px 0;
+}
 
-  
+footer p {
+  margin: 0;
+}
